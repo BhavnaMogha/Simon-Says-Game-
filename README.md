@@ -17,4 +17,4 @@
    3. JAVASCRIPT
 
 ## Link :
-   url :
+   url : https://bhavnamogha.github.io/Simon-Says-Game-/
